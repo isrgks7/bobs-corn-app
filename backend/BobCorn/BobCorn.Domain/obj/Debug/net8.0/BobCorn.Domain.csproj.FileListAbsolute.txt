@@ -1,0 +1,12 @@
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\bin\Debug\net8.0\BobCorn.Domain.deps.json
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\bin\Debug\net8.0\BobCorn.Domain.dll
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\bin\Debug\net8.0\BobCorn.Domain.pdb
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\BobCorn.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\BobCorn.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\BobCorn.Domain.AssemblyInfo.cs
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\BobCorn.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\BobCorn.Domain.sourcelink.json
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\BobCorn.Domain.dll
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\refint\BobCorn.Domain.dll
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\BobCorn.Domain.pdb
+C:\Users\andre\Desktop\Bobs\bobs-corn-app\backend\BobCorn\BobCorn.Domain\obj\Debug\net8.0\ref\BobCorn.Domain.dll
