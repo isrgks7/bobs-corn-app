@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BobCorn.Infrastructure/1.0.0": {
+        "dependencies": {
+          "BobCorn.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BobCorn.Infrastructure.dll": {}
+        }
+      },
+      "BobCorn.Domain/1.0.0": {
+        "runtime": {
+          "BobCorn.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BobCorn.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BobCorn.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
