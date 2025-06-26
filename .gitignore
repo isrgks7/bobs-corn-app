@@ -1,26 +1,163 @@
-# .NET  Visual Studio
-bin
-obj
-.vscode
-.vs
-.user
-.suo
-.userosscache
-.sln.docstates
+# =====================================
+# ASP.NET Core Backend
+# =====================================
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache and temp files
+.vs/
+*.vspscc
+*.vssscc
+*.plg
+*.opt
+*.cache
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.sdf
 
 # Rider
-.idea
+.idea/
+*.sln.iml
 
-# NuGet
-.nupkg
-packages
-.snupkg
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+nCrunchTemp_*
+
+# MSTest test results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+
+# Coverage results
+*.coverage
+*.coveragexml
+*.testcoverage
+
+# Azure Web App publish settings
+PublishScripts/
+*.azurePubxml
+*.pubxml
+*.publishproj
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# Entity Framework Core Migrations
+Migrations/
+
+# Others
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+ClientBin/
+Backup*/
+UpgradeLog*.XML
+*.mdf
+*.ldf
+
+# =====================================
+# Node.js / React Frontend
+# =====================================
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+dist-ssr/
 
 # Logs
-.log
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
 
-# Frontend  Node
-node_modules
-dist
-build
+# Local env files
 .env
+.env.local
+.env.*.local
+
+# Misc
+*.local
+
+# =====================================
+# Editors
+# =====================================
+
+# VSCode
+.vscode/*
+!.vscode/extensions.json
+
+# JetBrains Rider
+.idea/
+
+# Visual Studio Code Cache Files
+*.code-workspace
+
+# =====================================
+# OS Generated Files
+# =====================================
+
+.DS_Store
+Thumbs.db
+
+# =====================================
+# Miscellaneous
+# =====================================
+
+# Temporary files
+*.tmp
+*.temp
+
+# Others
+*.pidb
+*.svclog
+*.scc
+*.gpState
+*.ncb
+*.opendb
+*.opensdf
+*.ilk
+*.meta
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+
+# End of file

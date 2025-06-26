@@ -17,11 +17,18 @@ namespace BobCorn.API.Controllers
         [HttpPost("{clientId}")]
         public async Task<IActionResult> BuyCorn(string clientId)
         {
-            var result = await _purchaseService.TryPurchaseAsync(clientId);
-            if (!result)
-                return StatusCode(429, "🌽 Too many requests");
+            try
+            {
+                var result = await _purchaseService.TryPurchaseAsync(clientId);
+                if (!result)
+                    return StatusCode(429, "🌽 Too many requests");
 
-            return Ok("🌽 Corn purchased!");
+                return Ok("🌽 Corn purchased!");
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, $"Internal server error: {ex.Message}");
+            }
         }
     }
 }
