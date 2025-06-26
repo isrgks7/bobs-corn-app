@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BobCorn.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89899a09c43a894d7408448bbd7970193d6a0df0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b8fb2e0d06f97ed93de97d60fd0727379a97148")]
 [assembly: System.Reflection.AssemblyProductAttribute("BobCorn.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BobCorn.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
