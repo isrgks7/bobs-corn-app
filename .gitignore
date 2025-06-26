@@ -1,0 +1,26 @@
+# .NET  Visual Studio
+bin
+obj
+.vscode
+.vs
+.user
+.suo
+.userosscache
+.sln.docstates
+
+# Rider
+.idea
+
+# NuGet
+.nupkg
+packages
+.snupkg
+
+# Logs
+.log
+
+# Frontend  Node
+node_modules
+dist
+build
+.env
